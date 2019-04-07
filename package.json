@@ -1,0 +1,19 @@
+{
+  "name": "ipchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ipchange.js",
+  "dependencies": {
+    "fsevents": "^1.2.7",
+    "iconv-lite": "^0.4.24",
+    "ip": "^1.1.5",
+    "nan": "^2.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
